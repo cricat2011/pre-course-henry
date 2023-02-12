@@ -1,2 +1,2 @@
-# pre-course-henry
-Este es un repositorio de prueba del modulo2 de henry
+Cristian Granados
+Este proyecto es una prueba de como clonar un repositorio en github y trabajrlo desde mi pc
